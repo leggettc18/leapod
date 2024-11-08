@@ -1,0 +1,101 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.leggettc18.leopod package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.leggettc18.leopod\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-08 11:35+0100\n"
+"PO-Revision-Date: 2024-11-08 11:38+0100\n"
+"Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#: src/MainWindow.vala:64
+msgid "Leopod"
+msgstr "Leopod"
+
+#: src/MainWindow.vala:76
+msgid "Welcome to Leopod"
+msgstr "Welkom in Leopod"
+
+#: src/MainWindow.vala:77
+msgid "Build your library by adding podcasts."
+msgstr "Voeg podcasts toe om een verzameling aan te leggen."
+
+#: src/MainWindow.vala:81
+msgid "Add a new Feed"
+msgstr "Feed toevoegen"
+
+#: src/MainWindow.vala:82
+msgid "Provide the web address of a podcast feed."
+msgstr "Voer het adres van een podcastfeed in."
+
+#: src/MainWindow.vala:119
+msgid "All Podcasts"
+msgstr "Alle podcasts"
+
+#: src/MainWindow.vala:120
+msgid "Welcome"
+msgstr "Welkom"
+
+#: src/MainWindow.vala:121
+msgid "Episodes"
+msgstr "Afleveringen"
+
+#: src/MainWindow.vala:218 src/MainWindow.vala:221
+msgid "All Scrolled"
+msgstr "Alle gescrolde"
+
+#: src/Widgets/AddPodcastDialog.vala:12
+msgid "Add Podcast"
+msgstr "Podcast toevoegen"
+
+#. Create and setup widgets
+#: src/Widgets/AddPodcastDialog.vala:26
+msgid "Podcast RSS Feed URL:"
+msgstr "Feedurl van podcast:"
+
+#. Add buttons to button area at the bottom
+#: src/Widgets/AddPodcastDialog.vala:38
+msgid "Close"
+msgstr "Sluiten"
+
+#: src/Widgets/AddPodcastDialog.vala:39
+msgid "Add"
+msgstr "Toevoegen"
+
+#: data/leopod.desktop.in:3 data/leopod.appdata.xml.in:6
+msgid "Leapod"
+msgstr "Leopod"
+
+#: data/leopod.desktop.in:4
+msgid "Podcast Client App"
+msgstr "Podcastapp"
+
+#: data/leopod.desktop.in:5
+msgid "Organize and listen to your podcasts"
+msgstr "Beheer en luister naar podcasts"
+
+#: data/leopod.desktop.in:8
+msgid "com.github.leggettc18.leapod"
+msgstr "com.github.leggettc18.leapod"
+
+#: data/leopod.desktop.in:11
+msgid "Leapod;Podcast;Audio;"
+msgstr "Leapod;Podcast;Audio;"
+
+#: data/leopod.appdata.xml.in:7
+msgid "Organize and listen to your podcasts!"
+msgstr "Beheer en luister naar podcasts!"
+
+#: data/leopod.appdata.xml.in:9
+msgid "Subscribe to podcasts, organize them, and listen to them."
+msgstr "Abonneer op podcasts en beheer en luister naar ze."
